@@ -2,4 +2,4 @@
 
 ## Documentación:
 
-https://lancis-apc.github.io/cdmx/
+https://sgirpc.github.io/cdmx/
